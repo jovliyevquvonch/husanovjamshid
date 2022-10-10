@@ -2,9 +2,8 @@ Hey 👋 I'm JamshidBek 😎
 
 Talking about Personal Stuffs:
 
-- 👋 Hi, I’m JmashidBek                                                        
-- 👀 I’m interested in Footabll
 - 🌱 I’m currently learning FullStack Web Programming
+- 👀 I’m interested in Footabll
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/khusanov_o2
 
