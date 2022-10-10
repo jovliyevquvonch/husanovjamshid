@@ -1,8 +1,4 @@
-Hey wave, I'm Murod sunglasses
-
-Hi there, I'm Murod, a passionate Developer ![image](https://user-images.githubusercontent.com/94694648/194937642-727791cb-c63a-4901-a8de-ce8d7e8ee4a7.png)
- rocket from Uzbekistan uzbekistan ![image](https://user-images.githubusercontent.com/94694648/194937674-d9df740f-c1fc-48e6-a8ed-45dd73f8beb7.png)
-.
+Talking about Personal Stuffs:
 
 - 👋 Hi, I’m JmashidBek                                                        
 - 👀 I’m interested in Footabll
