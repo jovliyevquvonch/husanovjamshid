@@ -5,7 +5,8 @@
 - 📫 How to reach me https://t.me/khusanov_o2
 
 Languages and Tools:
-![image](https://user-images.githubusercontent.com/94694648/194936544-28a489fd-6da6-4281-9c5f-189c48f3214e.png)
+
+- ![image](https://user-images.githubusercontent.com/94694648/194936544-28a489fd-6da6-4281-9c5f-189c48f3214e.png)
 
 <!---
 husanovjamshid/husanovjamshid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
