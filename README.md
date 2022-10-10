@@ -1,5 +1,4 @@
-- 👋 Hi, I’m JmashidBek                                                       ![image](https://user-images.githubusercontent.com/94694648/194936999-e497bacf-d21c-4fa0-a915-6c538598e1b4.png)
-
+- 👋 Hi, I’m JmashidBek                                                        
 - 👀 I’m interested in Footabll
 - 🌱 I’m currently learning FullStack Web Programming
 - 💞️ I’m looking to collaborate on ...
@@ -13,7 +12,6 @@ Languages and Tools:
 ![image](https://user-images.githubusercontent.com/94694648/194936862-51fbaad3-de43-447e-b657-74fbaf59a02b.png)
 ![image](https://user-images.githubusercontent.com/94694648/194936883-3583d7dc-b2dd-4343-a8b2-456c10ccc11c.png)
 ![image](https://user-images.githubusercontent.com/94694648/194936902-40abbaac-4a2a-4ab1-ba0c-76be7414f062.png)
-
 ![image](https://user-images.githubusercontent.com/94694648/194936544-28a489fd-6da6-4281-9c5f-189c48f3214e.png)
 
 <!---
