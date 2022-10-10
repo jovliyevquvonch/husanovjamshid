@@ -1,7 +1,4 @@
 Hey 👋 I'm JamshidBek 😎
-![image](https://user-images.githubusercontent.com/94694648/194938264-703a6478-e2fe-47a6-bb21-b3bef547b7cd.png) ![image](https://user-images.githubusercontent.com/94694648/194938297-0cfce84b-fad9-4dd8-8ab7-66dad86b5e33.png) ![image](https://user-images.githubusercontent.com/94694648/194938339-3dd95e34-af47-4ee9-8cf4-243c56d87d58.png)
-
-
 
 Talking about Personal Stuffs:
 
