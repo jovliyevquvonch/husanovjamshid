@@ -3,7 +3,7 @@ Hey 👋 I'm JamshidBek 😎
 Talking about Personal Stuffs:
 
 - 🌱 I’m currently learning FullStack Web Programming
-- 👀 I’m interested in Footabll
+- 👀 I’m interested in Football
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/khusanov_o2
 
